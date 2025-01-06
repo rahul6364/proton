@@ -1,10 +1,10 @@
-# Prerequisites
+# Prerequisites for this project
 ######
 - JDK 22
 - Maven 3.9 
 - MySQL 8
 
-# Technologies 
+# Technologies used 
 - JAKARTA
 - Spring MVC
 - Spring Security
@@ -16,7 +16,7 @@
 - Memcached
 - Rabbitmq
 - ElasticSearch
-# Database
+# Database used 
 Here,we used Mysql DB 
 sql dump file:
 - /src/main/resources/db_backup.sql
